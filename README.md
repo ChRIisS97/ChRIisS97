@@ -1,9 +1,9 @@
-![](https://github.com/ChRIisS97/ChRIisS97/blob/master/Startseite.png)
+![](https://github.com/ChRIisS97/ChRIisS97/blob/master/StartseiteMe.png)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChRIisS97&layout=compact)](https://github.com/ChRIisS97/github-readme-stats)
-![ChRIisS97's Github Stats](https://github-readme-stats.vercel.app/api?username=ChRIisS97&show_icons=true)-->
-<br><br>
+![](https://github.com/ChRIisS97/ChRIisS97/blob/master/StartseiteProjects.png)
 
-<h1 align="center">If you want to talk, feel free :smile:</h1>
+<br>
 
-![](https://github.com/ChRIisS97/ChRIisS97/blob/master/StartseiteIcons.png)
+![](https://github.com/ChRIisS97/ChRIisS97/blob/master/StartseiteContact.png)
+
+<p align="center">If you want to talk, feel free :smile:</p>
