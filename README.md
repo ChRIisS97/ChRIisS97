@@ -9,7 +9,10 @@
 </p>
 <br><br>
 
-<h1 align="center">IM CHRIS, WELCOME TO MY PAGE</h1><br>
+<h1 align="center">WELCOME TO MY PAGE</h1><br>
 <p align="center">Prospective, cosmopolitan IoT student with a penchant for UI/UX design and conception. Knowledge in user interface, user experience, JavaScript, HTML & CSS, prototyping and more. If you have any questions, im always open and ready to answer them.
 </p>
-
+<p align="center">
+<img src=https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Website&url=https%3A%2F%2Fchristopher-himann.com>
+    </p>
+<br><br>
