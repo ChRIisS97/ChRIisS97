@@ -15,5 +15,4 @@
     <strong>Website</strong> | <a style="text-decoration:none"href="https://christopher-himann.com" target="_blank" title="hello beautiful person, your awesome">christopher-himann.com</a> &nbsp;&nbsp;
     <strong>Design</strong> | <a style="text-decoration:none"href="https://dribbble.com/cHrIsToPhEr97" target="_blank" title="hello beautiful person, your awesome">I'm on Dribbble</a> &nbsp;&nbsp;
 </p>
-
-
+<br><br>
