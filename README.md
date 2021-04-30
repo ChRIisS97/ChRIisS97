@@ -11,10 +11,9 @@
 
 <h1 align="center">WELCOME TO MY PAGE</h1><br>
 <p align="center">Prospective, cosmopolitan IoT student with a penchant for UI/UX design and conception. Knowledge in user interface, user experience, JavaScript, HTML & CSS, prototyping and more. If you have any questions, im always open and ready to answer them.
+<br><br>
+    <strong>Website</strong> | <a style="text-decoration:none"href="https://christopher-himann.com" target="_blank" title="hello beautiful person, your awesome">christopher-himann.com</a> &nbsp;&nbsp;
+    <strong>Design</strong> | <a style="text-decoration:none"href="https://dribbble.com/cHrIsToPhEr97" target="_blank" title="hello beautiful person, your awesome">I'm on Dribbble</a> &nbsp;&nbsp;
 </p>
 
-<p align="center">
-    <a>christopher-himann.com </a>
-<img src=https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%2Fhttp%2Fwww.christopher-himann.com>
-    </p>
-<br><br>
+
